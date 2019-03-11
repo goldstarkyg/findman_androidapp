@@ -1,0 +1,166 @@
+{
+  "project_info": {
+    "project_number": "628524789981",
+    "firebase_url": "https://sound-inn-147414.firebaseio.com",
+    "project_id": "sound-inn-147414",
+    "storage_bucket": "sound-inn-147414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628524789981:android:f1e4a918d7d844c3",
+        "android_client_info": {
+          "package_name": "com.reveal.xcaltaptt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628524789981-hnau365hpps596a4f4r0ngqi2r95esgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUTrCKilDQiPb6kxLuvDcNjD3JGAodLN0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628524789981:android:5cae2224a3c5b451",
+        "android_client_info": {
+          "package_name": "com.strangerr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628524789981-hnau365hpps596a4f4r0ngqi2r95esgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUTrCKilDQiPb6kxLuvDcNjD3JGAodLN0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628524789981:android:bb506ad8c56cdf5b",
+        "android_client_info": {
+          "package_name": "com.strangrs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628524789981-hnau365hpps596a4f4r0ngqi2r95esgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUTrCKilDQiPb6kxLuvDcNjD3JGAodLN0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628524789981:android:ba9d7dc356c3cdde",
+        "android_client_info": {
+          "package_name": "com.chat.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628524789981-hnau365hpps596a4f4r0ngqi2r95esgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUTrCKilDQiPb6kxLuvDcNjD3JGAodLN0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628524789981:android:564da9a0d902a84f",
+        "android_client_info": {
+          "package_name": "com.findmiin.business.local"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628524789981-hnau365hpps596a4f4r0ngqi2r95esgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUTrCKilDQiPb6kxLuvDcNjD3JGAodLN0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

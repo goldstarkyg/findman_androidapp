@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <style name="calendar_event_style" parent="@android:style/TextAppearance.Small">
+        <item name="android:textColor">#FF6600</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">6sp</item>
+    </style>
+</resources>

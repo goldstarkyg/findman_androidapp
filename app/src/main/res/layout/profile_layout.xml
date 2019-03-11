@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lbmain"
+    android:id="@+id/background"
+    android:focusableInTouchMode="true"
+    >
+    <LinearLayout
+        android:id="@+id/lay_color"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="10"
+        >
+        <TextView
+            android:id="@+id/btncolor1"
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_weight="2"
+            android:layout_marginRight="4dp"
+            android:background="@drawable/clor_pink"
+            />
+        <TextView
+            android:id="@+id/btncolor3"
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_weight="2"
+            android:background="@drawable/clor_blue"
+            android:layout_marginRight="4dp"/>
+        <TextView
+            android:id="@+id/btncolor2"
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_weight="2"
+            android:layout_marginRight="4dp"
+            android:background="@drawable/color_white_btn"
+            />
+
+        <TextView
+            android:id="@+id/btncolor4"
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_weight="2"
+            android:background="@drawable/clor_red"
+            android:layout_marginRight="4dp"/>
+        <TextView
+            android:id="@+id/btncolor5"
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_weight="2"
+            android:background="@drawable/clor_orange"
+            android:layout_marginRight="4dp"/>
+    </LinearLayout>
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/swipeRefreshLayout"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v4.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <android.support.v7.widget.CardView
+                    android:visibility="gone"
+                    android:id="@+id/cardview"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginRight="0dp"
+                    android:layout_marginTop="0dp"
+                    android:fadingEdgeLength="4dp"
+                    card_view:cardCornerRadius="4dp">
+
+                    <android.support.v7.widget.SearchView
+                        android:id="@+id/searchview"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_gravity="center_vertical"
+                        android:clickable="true"
+                        android:iconifiedByDefault="true">
+
+                    </android.support.v7.widget.SearchView>
+
+                </android.support.v7.widget.CardView>
+                <android.support.v7.widget.CardView
+                    android:id="@+id/cardview_profile"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    card_view:cardBackgroundColor="#d7d7d7"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginRight="0dp"
+                    android:layout_marginTop="0dp"
+                    android:fadingEdgeLength="4dp"
+                    card_view:cardCornerRadius="15dp">
+                        <LinearLayout
+                            android:orientation="vertical"
+                            android:layout_marginRight="15dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+                            <LinearLayout
+                                android:orientation="horizontal"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content">
+                                <com.findmiin.business.local.Utility.util.CircleImageView
+                                    android:id="@+id/photo"
+                                    android:layout_margin="15dp"
+                                    android:layout_width="100dp"
+                                    android:layout_height="100dp" />
+                                <LinearLayout
+                                    android:orientation="vertical"
+                                    android:layout_gravity="center_vertical"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content">
+                                    <TextView
+                                        android:id="@+id/mail"
+                                        android:text=""
+                                        android:textSize="20dp"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content" />
+                                    <TextView
+                                        android:id="@+id/name"
+                                        android:text=""
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content" />
+                                </LinearLayout>
+
+                            </LinearLayout>
+                            <LinearLayout
+                                android:layout_marginLeft="130dp"
+                                android:layout_marginBottom="10dp"
+                                android:orientation="horizontal"
+                                android:weightSum="10"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content">
+                                <TextView
+                                    android:id="@+id/localfind"
+                                    android:text="localfinds "
+                                    android:layout_width="0dp"
+                                    android:layout_weight="5"
+                                    android:layout_height="wrap_content" />
+                                <TextView
+                                    android:id="@+id/comment"
+                                    android:text="comment "
+                                    android:layout_width="0dp"
+                                    android:layout_weight="5"
+                                    android:layout_height="wrap_content" />
+
+                            </LinearLayout>
+                        </LinearLayout>
+                </android.support.v7.widget.CardView>
+                <android.support.v7.widget.RecyclerView
+                    android:id="@+id/recyclerview"
+                    android:scrollbars="vertical"
+                    android:layout_marginTop="4dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                />
+            </LinearLayout>
+        </android.support.v4.widget.NestedScrollView>
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+</LinearLayout>

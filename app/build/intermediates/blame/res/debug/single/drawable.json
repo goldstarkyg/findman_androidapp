@@ -1,0 +1,754 @@
+[
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fb_ico.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\fb_ico.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_collapse.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\20d1527d8c499a89bbac8bed2a08a8e35ac0d40f\\output\\res\\drawable\\ic_collapse.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_big_button.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\round_big_button.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cal_left_arrow_on.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\cal_left_arrow_on.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gp_ico_d.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\gp_ico_d.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\email.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\email.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_sports.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\main_sports.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clor_white.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\clor_white.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_event.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\main_event.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar_circle.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\calendar_circle.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_offerts.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\main_offerts.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\20d1527d8c499a89bbac8bed2a08a8e35ac0d40f\\output\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fb_icon.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\fb_icon.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw_icon_d.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\tw_icon_d.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_corner_bg.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\89f6b7aba6f38714ef3b7e0560a407e5f13b070c\\output\\res\\drawable\\indicator_corner_bg.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\e2e8fead1b06836aed161518432e624571a4af97\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cal_right_arrow_on.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\cal_right_arrow_on.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_dark.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\20d1527d8c499a89bbac8bed2a08a8e35ac0d40f\\output\\res\\drawable\\mr_ic_media_route_on_dark.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_button.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\blue_button.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\uparrow.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\uparrow.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\b90aa11336abb9e38907acf7f823dc7723b809b4\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_like_fill.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\icon_like_fill.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_light.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\20d1527d8c499a89bbac8bed2a08a8e35ac0d40f\\output\\res\\drawable\\mr_ic_media_route_connecting_light.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gp_icon_g.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\gp_icon_g.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_light.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\20d1527d8c499a89bbac8bed2a08a8e35ac0d40f\\output\\res\\drawable\\mr_ic_media_route_on_light.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_focus.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\menu_focus.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\error_image.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\error_image.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\progress.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\20d1527d8c499a89bbac8bed2a08a8e35ac0d40f\\output\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gp_icon.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\gp_icon.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\e2e8fead1b06836aed161518432e624571a4af97\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\barkery.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\barkery.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_light.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\20d1527d8c499a89bbac8bed2a08a8e35ac0d40f\\output\\res\\drawable\\mr_ic_close_light.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cal_left_arrow_off.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\cal_left_arrow_off.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fb_icon_g.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\fb_icon_g.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_primary.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\btn_primary.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dark_background.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\dark_background.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\20d1527d8c499a89bbac8bed2a08a8e35ac0d40f\\output\\res\\drawable\\ic_expand.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_house.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\main_house.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clor_pink.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\clor_pink.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_corner_blue.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\btn_corner_blue.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\20d1527d8c499a89bbac8bed2a08a8e35ac0d40f\\output\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comment.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\comment.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\color_white_btn.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\color_white_btn.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\group.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\group.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_done_background_color.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\7d0674baa69c553989683f1b8b3e2f3ea97907fa\\output\\res\\drawable\\mdtp_done_background_color.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\20d1527d8c499a89bbac8bed2a08a8e35ac0d40f\\output\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\e2e8fead1b06836aed161518432e624571a4af97\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_radio_white.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\ic_radio_white.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\restarant.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\restarant.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\keyboard_bar.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\keyboard_bar.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map_ico_g.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\map_ico_g.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\b90aa11336abb9e38907acf7f823dc7723b809b4\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\20d1527d8c499a89bbac8bed2a08a8e35ac0d40f\\output\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_dark.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\20d1527d8c499a89bbac8bed2a08a8e35ac0d40f\\output\\res\\drawable\\mr_ic_media_route_connecting_dark.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\20d1527d8c499a89bbac8bed2a08a8e35ac0d40f\\output\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\key_background.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\key_background.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_done_background_color_dark.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\7d0674baa69c553989683f1b8b3e2f3ea97907fa\\output\\res\\drawable\\mdtp_done_background_color_dark.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fb_icon_d.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\fb_icon_d.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_image.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\no_image.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shop.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\shop.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_1.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\alert_1.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map_ico.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\map_ico.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gp_ico.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\gp_ico.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\forward.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\forward.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\flower.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_lost_focus.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\menu_lost_focus.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\focus_border_style.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\focus_border_style.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profile.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\profile.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\unchecked.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\unchecked.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\20d1527d8c499a89bbac8bed2a08a8e35ac0d40f\\output\\res\\drawable\\mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_search.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\icon_search.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_material_button_background.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\7d0674baa69c553989683f1b8b3e2f3ea97907fa\\output\\res\\drawable\\mdtp_material_button_background.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cal_right_arrow_off.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\cal_right_arrow_off.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\b7bb65809c6dd7b343ea2ec24d31d3053f1e5e63\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw_ico.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\tw_ico.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw_icon.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\tw_icon.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\20d1527d8c499a89bbac8bed2a08a8e35ac0d40f\\output\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\20d1527d8c499a89bbac8bed2a08a8e35ac0d40f\\output\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\e2e8fead1b06836aed161518432e624571a4af97\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comment_no.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\comment_no.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\marker.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\findmiin_main.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\findmiin_main.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clor_red.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\clor_red.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw_ico_g.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\tw_ico_g.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_like.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\icon_like.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reset.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\reset.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_audiotrack_light.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\20d1527d8c499a89bbac8bed2a08a8e35ac0d40f\\output\\res\\drawable\\mr_ic_audiotrack_light.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_corner_white.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\btn_corner_white.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map_icon_d.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\map_icon_d.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map_icon.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\map_icon.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clor_orange.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\clor_orange.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar_bg_orange.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\calendar_bg_orange.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coupon.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\coupon.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_dark.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\20d1527d8c499a89bbac8bed2a08a8e35ac0d40f\\output\\res\\drawable\\mr_ic_close_dark.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\find_category.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\find_category.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\empty_url.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\empty_url.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar_button_selector.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\calendar_button_selector.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lost_focus_border_style.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\lost_focus_border_style.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clor_blue.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\clor_blue.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_background.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\list_item_background.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\20d1527d8c499a89bbac8bed2a08a8e35ac0d40f\\output\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mic.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\mic.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\findmiin_main_1.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\findmiin_main_1.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_material_button_selected.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\7d0674baa69c553989683f1b8b3e2f3ea97907fa\\output\\res\\drawable\\mdtp_material_button_selected.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pfimage.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\pfimage.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checked.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\checked.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\business1.png",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\business1.png"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_custom.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\drawable\\checkbox_custom.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\crop_image_menu_crop_stub.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\dfa280050cb488fa0e8d83f1e066d732a8eee263\\output\\res\\drawable\\crop_image_menu_crop_stub.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    }
+]

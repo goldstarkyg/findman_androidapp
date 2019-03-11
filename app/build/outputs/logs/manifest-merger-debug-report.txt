@@ -1,0 +1,683 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:2:1-163:12
+	package
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:4:5-42
+		INJECTED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml
+		INJECTED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml
+		INJECTED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml
+		INJECTED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.INTERNET
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:6:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\JonIC\.android\build-cache\e3f52de1628d986206ec81cc39ad1e10465ad508\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.6.1] C:\Users\JonIC\.android\build-cache\d88f3a3de693eadef4f51e81123d880a49fbb3b7\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:9.6.1] C:\Users\JonIC\.android\build-cache\821fe52527b8d87ec4e8c1a8648679bac28066ea\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\JonIC\.android\build-cache\305405c694c462d352987573274f3c7e2076f90c\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.6.1] C:\Users\JonIC\.android\build-cache\55cf0437ffaa154da6a4a229c22b0a165b5cafb4\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] C:\Users\JonIC\.android\build-cache\3f3536ae95dbfde5dbbfb4f9ab6173825e72517b\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.1] C:\Users\JonIC\.android\build-cache\1a5eb73524fa9e825822a9db58be896610cb3742\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] C:\Users\JonIC\.android\build-cache\f3563a0779fd6f1a56d507b9362f62459415e667\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\JonIC\.android\build-cache\c2eecf34e93456f1c85a52333ab73035fb4fac3f\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\JonIC\.android\build-cache\fcc8a4060a45a244e667954fff34a780ffa6a13a\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\JonIC\.android\build-cache\d3e074088e155e461859ab0e64244896d643ced1\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:20:5-66
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\JonIC\.android\build-cache\89f6b7aba6f38714ef3b7e0560a407e5f13b070c\output\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:8:5-80
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\JonIC\.android\build-cache\89f6b7aba6f38714ef3b7e0560a407e5f13b070c\output\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission-sdk-23
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:11:29-69
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:17:5-19:48
+	android:resource
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:19:9-45
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:18:9-79
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:20:5-21:48
+	android:resource
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:21:9-45
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:20:16-87
+uses-feature#android.hardware.camera
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:22:5-84
+	android:required
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:22:58-81
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:22:19-57
+application
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:25:5-160:19
+MERGED from [com.wdullaer:materialdatetimepicker:2.5.0] C:\Users\JonIC\.android\build-cache\7d0674baa69c553989683f1b8b3e2f3ea97907fa\output\AndroidManifest.xml:28:5-20
+MERGED from [com.android.support:cardview-v7:24.0.0] C:\Users\JonIC\.android\build-cache\38a08853b178966d5f378f8986e1514be06b3aae\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:9.6.1] C:\Users\JonIC\.android\build-cache\c3c44bb7e854f818d2b6cd7fdab45a1cf6d30b0e\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\JonIC\.android\build-cache\e3f52de1628d986206ec81cc39ad1e10465ad508\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:9.6.1] C:\Users\JonIC\.android\build-cache\d88f3a3de693eadef4f51e81123d880a49fbb3b7\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:9.6.1] C:\Users\JonIC\.android\build-cache\821fe52527b8d87ec4e8c1a8648679bac28066ea\output\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\JonIC\.android\build-cache\3c930904895613d2ad0c96758e66dd4132bac0c2\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:9.6.1] C:\Users\JonIC\.android\build-cache\fc5c76e24833627bf00ef2190952d102998a8222\output\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:9.6.1] C:\Users\JonIC\.android\build-cache\b7bb65809c6dd7b343ea2ec24d31d3053f1e5e63\output\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\JonIC\.android\build-cache\20d1527d8c499a89bbac8bed2a08a8e35ac0d40f\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\JonIC\.android\build-cache\dd080162bf728457ad5b2c0a14b56fca7efbe110\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-clearcut:9.6.1] C:\Users\JonIC\.android\build-cache\29dee4efcdd61ae52cf4601b8cd3dccb978e3b62\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:9.6.1] C:\Users\JonIC\.android\build-cache\09a4f88b3f75f82e17cc542096e33a83a92e99b5\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:9.6.1] C:\Users\JonIC\.android\build-cache\0f0b87072c746535eec48d5fae2915955ae8fd12\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\JonIC\.android\build-cache\305405c694c462d352987573274f3c7e2076f90c\output\AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.firebase:firebase-auth:9.6.1] C:\Users\JonIC\.android\build-cache\407ee663510b9ef0cabd39aa6e8a1cf25be5f12e\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth-common:9.6.1] C:\Users\JonIC\.android\build-cache\82b12ce4ad8c60a260d6eb7d3ad468967b0f6b61\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-fitness:9.6.1] C:\Users\JonIC\.android\build-cache\2758be64fb307dec1eaeab0fd98e1069b81b8023\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:9.6.1] C:\Users\JonIC\.android\build-cache\22401de8dfe3b7f678dbf39369e2798a4871d4b5\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:9.6.1] C:\Users\JonIC\.android\build-cache\5c94bad2ca79f79f8b8b409ffe9e69572701ff6a\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:9.6.1] C:\Users\JonIC\.android\build-cache\c11d9f2e2df891e0795218e9ef9b1f18595266f2\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:9.6.1] C:\Users\JonIC\.android\build-cache\55cf0437ffaa154da6a4a229c22b0a165b5cafb4\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-appindexing:9.6.1] C:\Users\JonIC\.android\build-cache\ed5549e91e247282528a5d78a467da6072829ec6\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] C:\Users\JonIC\.android\build-cache\3f3536ae95dbfde5dbbfb4f9ab6173825e72517b\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:9.6.1] C:\Users\JonIC\.android\build-cache\2de843416b3b8a3e63780682397397ec284758d3\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:9.6.1] C:\Users\JonIC\.android\build-cache\72eecb65b127c6f2188f58c0186ababda0dedd07\output\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:9.6.1] C:\Users\JonIC\.android\build-cache\d83fa4b311c274916154fc18eac6fabfdd67c817\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:9.6.1] C:\Users\JonIC\.android\build-cache\b125b5994d277a3f19cab65b525e668ae5a90600\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:9.6.1] C:\Users\JonIC\.android\build-cache\396281f2b602f3786d6799849906bfa10531d51b\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:9.6.1] C:\Users\JonIC\.android\build-cache\0bf15645bda04ce068201b309987a7855d2ccbac\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.1] C:\Users\JonIC\.android\build-cache\1a5eb73524fa9e825822a9db58be896610cb3742\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] C:\Users\JonIC\.android\build-cache\f3563a0779fd6f1a56d507b9362f62459415e667\output\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-vision:9.6.1] C:\Users\JonIC\.android\build-cache\7470ac87305c3a75e7414d8e67f7d6c65489c161\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:9.6.1] C:\Users\JonIC\.android\build-cache\520b26ad0b93e54e1305ecf0134f4d627dbbeff6\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\JonIC\.android\build-cache\c2eecf34e93456f1c85a52333ab73035fb4fac3f\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:9.6.1] C:\Users\JonIC\.android\build-cache\00d235df745865be2e3f1f561f5b3d6d602b192d\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\JonIC\.android\build-cache\e2e8fead1b06836aed161518432e624571a4af97\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\JonIC\.android\build-cache\1a903b86f5135d882969409506cde50fa415b061\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-core:9.6.1] C:\Users\JonIC\.android\build-cache\6d3d0f7c70a2c5725055280f483e9f1a9bceb789\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\JonIC\.android\build-cache\fcc8a4060a45a244e667954fff34a780ffa6a13a\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\JonIC\.android\build-cache\d3e074088e155e461859ab0e64244896d643ced1\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\JonIC\.android\build-cache\d690f18d5ecf220da13258f5473fe9fcd70750b8\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\JonIC\.android\build-cache\280900cdbf589a1b75f4e836985958e751199b04\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\JonIC\.android\build-cache\6447febf8480b4f0c25472e183b19557c029ca87\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:design:24.0.0] C:\Users\JonIC\.android\build-cache\b90aa11336abb9e38907acf7f823dc7723b809b4\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\JonIC\.android\build-cache\12ade4142887176505521c1022f0f2c3d60f0a95\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\JonIC\.android\build-cache\fd02c350a9ccd849a0321da7194c0ac324c612f0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\JonIC\.android\build-cache\545fb4dc59409e39a695992c4a7b5257ba5d102f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\JonIC\.android\build-cache\ba9b3c59483e398fe0c3ed46d19e73908a3894da\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\JonIC\.android\build-cache\6d48c39c15bee385340789f27533b6f346562b64\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\JonIC\.android\build-cache\8084ef25776b5096b89c6226296493ac5b82ac04\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\JonIC\.android\build-cache\e977563fb28117c72260f203ebe67341800f2145\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\JonIC\.android\build-cache\c8fbea81793962565bc633cdc16f76bb1229d1cd\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\JonIC\.android\build-cache\1379730a544ee0a37af5825c81f8d186fa9e53a8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:exifinterface:25.3.1] C:\Users\JonIC\.android\build-cache\54227377955465aaf3673b8fab522288adfa5ecc\output\AndroidManifest.xml:26:5-20
+	android:label
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:30:9-41
+	android:supportsRtl
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:32:9-35
+	android:hardwareAccelerated
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:27:9-43
+	android:allowBackup
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:26:9-35
+	android:icon
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:29:9-43
+	android:largeHeap
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:28:9-33
+	android:theme
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:33:9-67
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:31:9-78
+meta-data#com.google.android.gms.version
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:35:9-37:69
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\JonIC\.android\build-cache\6447febf8480b4f0c25472e183b19557c029ca87\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:37:13-66
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:36:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:38:9-40:55
+	android:value
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:40:13-52
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:39:13-58
+activity#com.findmiin.business.local.Activity.SplashActivity
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:43:9-51:20
+	android:screenOrientation
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:44:13-49
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:43:19-85
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:45:13-50:29
+action#android.intent.action.MAIN
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:46:17-47:59
+	android:screenOrientation
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:47:21-57
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:46:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:49:27-74
+service#com.findmiin.business.local.Service.HelloService
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:54:9-84
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:54:18-81
+service#com.findmiin.business.local.Utility.FCM.MyFirebaseMessagingService
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:56:9-61:19
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:57:13-94
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:58:13-60:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:59:17-77
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:59:25-75
+service#com.findmiin.business.local.Utility.FCM.FirebaseInstanceIDService
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:63:9-68:19
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:64:13-93
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:65:13-67:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:66:17-79
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:66:25-77
+activity#com.findmiin.business.local.Activity.MainActivity
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:71:9-73:36
+	android:screenOrientation
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:72:13-49
+	android:label
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:73:13-33
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:71:19-83
+activity#com.findmiin.business.local.Activity.Utils.CategorySearchActivity
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:75:9-78:24
+	android:screenOrientation
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:76:13-49
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:75:19-99
+activity#com.findmiin.business.local.Activity.Utils.DetailActivity
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:79:9-88:20
+	android:screenOrientation
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:80:13-49
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:79:19-91
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:81:13-86:29
+action#android.intent.action.VIEW
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:82:17-69
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:82:25-66
+category#android.intent.category.DEFAULT
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:83:17-75
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:83:27-73
+category#android.intent.category.BROWSABLE
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:84:17-77
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:84:27-75
+data
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:85:17-47
+	android:scheme
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:85:23-44
+activity#com.findmiin.business.local.Activity.Utils.MapActivity
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:90:9-91:51
+	android:screenOrientation
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:91:13-49
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:90:19-88
+activity#com.findmiin.business.local.Activity.Utils.LocSearchActivity
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:93:9-95:51
+	android:screenOrientation
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:95:13-49
+	android:configChanges
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:94:13-51
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:93:19-94
+activity#com.findmiin.business.local.Activity.Utils.LocDetailActivity
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:97:9-98:51
+	android:screenOrientation
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:98:13-49
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:97:19-94
+activity#com.findmiin.business.local.Activity.Utils.LocalSearchActivity
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:100:9-101:51
+	android:screenOrientation
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:101:13-49
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:100:19-96
+activity#com.findmiin.business.local.Activity.Utils.LocalDetailActivity
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:103:9-104:51
+	android:screenOrientation
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:104:13-49
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:103:19-96
+activity#com.findmiin.business.local.Activity.Utils.CategoryActivity
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:106:9-107:51
+	android:screenOrientation
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:107:13-49
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:106:19-93
+activity#com.findmiin.business.local.Activity.Login.U_ForgotActivity
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:115:9-116:51
+	android:screenOrientation
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:116:13-49
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:115:19-93
+activity#com.findmiin.business.local.Activity.Login.LoginActivity
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:118:9-119:51
+	android:screenOrientation
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:119:13-49
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:118:19-90
+activity#com.findmiin.business.local.Activity.Login.SignUpActivity
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:121:9-122:51
+	android:screenOrientation
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:122:13-49
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:121:19-91
+activity#com.findmiin.business.local.Activity.Login.ResetPasswordActivity
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:124:9-125:51
+	android:screenOrientation
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:125:13-49
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:124:19-98
+activity#com.findmiin.business.local.Activity.Login.U_RegOldActivity
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:127:9-128:51
+	android:screenOrientation
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:128:13-49
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:127:19-93
+activity#com.findmiin.business.local.Activity.Login.U_VerifyCodeActivity
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:130:9-131:51
+	android:screenOrientation
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:131:13-49
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:130:19-97
+activity#com.findmiin.business.local.Activity.Utils.PostActivity
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:133:9-135:51
+	android:screenOrientation
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:135:13-49
+	android:windowSoftInputMode
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:134:13-54
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:133:19-89
+activity#com.findmiin.business.local.Activity.Utils.CommentActivity
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:137:9-138:51
+	android:screenOrientation
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:138:13-49
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:137:19-65
+activity#com.findmiin.business.local.Activity.Utils.ProfileActivity
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:140:9-141:51
+	android:screenOrientation
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:141:13-49
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:140:19-65
+activity#com.findmiin.business.local.Activity.Utils.EditActivity
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:143:9-145:56
+	android:screenOrientation
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:144:13-49
+	android:windowSoftInputMode
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:145:13-54
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:143:19-62
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:147:9-148:58
+	android:theme
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:148:13-56
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:147:19-82
+provider#android.support.v4.content.FileProvider
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:150:9-158:20
+	android:authorities
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:152:13-60
+		INJECTED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml
+	android:grantUriPermissions
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:154:13-47
+	android:exported
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:153:13-37
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:151:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:155:13-157:57
+	android:resource
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:157:17-55
+	android:name
+		ADDED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml:156:17-67
+uses-sdk
+INJECTED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\JonIC\.android\build-cache\644f56b05b303a9be9659eee47de51f9f22eafbe\output\AndroidManifest.xml:18:5-42
+MERGED from [com.wdullaer:materialdatetimepicker:2.5.0] C:\Users\JonIC\.android\build-cache\7d0674baa69c553989683f1b8b3e2f3ea97907fa\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Users\JonIC\.android\build-cache\b9f646bf74da2dba23ec40fd75d356cf174d269a\output\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:cardview-v7:24.0.0] C:\Users\JonIC\.android\build-cache\38a08853b178966d5f378f8986e1514be06b3aae\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:9.6.1] C:\Users\JonIC\.android\build-cache\c3c44bb7e854f818d2b6cd7fdab45a1cf6d30b0e\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.6.1] C:\Users\JonIC\.android\build-cache\4b4f9a6790a9ea9216733e4c34e45a5623c43ebd\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\JonIC\.android\build-cache\e3f52de1628d986206ec81cc39ad1e10465ad508\output\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.6.1] C:\Users\JonIC\.android\build-cache\d88f3a3de693eadef4f51e81123d880a49fbb3b7\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.6.1] C:\Users\JonIC\.android\build-cache\821fe52527b8d87ec4e8c1a8648679bac28066ea\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\JonIC\.android\build-cache\3c930904895613d2ad0c96758e66dd4132bac0c2\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.6.1] C:\Users\JonIC\.android\build-cache\254f4abf24cd0edfd38de1e3ef8645720d45ecba\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:9.6.1] C:\Users\JonIC\.android\build-cache\fc5c76e24833627bf00ef2190952d102998a8222\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.6.1] C:\Users\JonIC\.android\build-cache\b7bb65809c6dd7b343ea2ec24d31d3053f1e5e63\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\JonIC\.android\build-cache\20d1527d8c499a89bbac8bed2a08a8e35ac0d40f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\JonIC\.android\build-cache\dd080162bf728457ad5b2c0a14b56fca7efbe110\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:9.6.1] C:\Users\JonIC\.android\build-cache\29dee4efcdd61ae52cf4601b8cd3dccb978e3b62\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:9.6.1] C:\Users\JonIC\.android\build-cache\09a4f88b3f75f82e17cc542096e33a83a92e99b5\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-awareness:9.6.1] C:\Users\JonIC\.android\build-cache\0f0b87072c746535eec48d5fae2915955ae8fd12\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\JonIC\.android\build-cache\305405c694c462d352987573274f3c7e2076f90c\output\AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-auth:9.6.1] C:\Users\JonIC\.android\build-cache\407ee663510b9ef0cabd39aa6e8a1cf25be5f12e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-common:9.6.1] C:\Users\JonIC\.android\build-cache\82b12ce4ad8c60a260d6eb7d3ad468967b0f6b61\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-module:9.6.1] C:\Users\JonIC\.android\build-cache\18527272a8528d6ab171606493236f4bf28d54dd\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database:9.6.1] C:\Users\JonIC\.android\build-cache\6aa9c7d4481abc1cd10450dc2e8a005560096640\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:9.6.1] C:\Users\JonIC\.android\build-cache\9405631ce66b36a586f0308d12ad7806f7ac0f1d\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage:9.6.1] C:\Users\JonIC\.android\build-cache\4f36f8d9d71a2ccf32a3fd418de64bff18e068a7\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:9.6.1] C:\Users\JonIC\.android\build-cache\3ebd1e3778ccdcdbb9d9aadd30d76fff1c58010e\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-fitness:9.6.1] C:\Users\JonIC\.android\build-cache\2758be64fb307dec1eaeab0fd98e1069b81b8023\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:9.6.1] C:\Users\JonIC\.android\build-cache\22401de8dfe3b7f678dbf39369e2798a4871d4b5\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.6.1] C:\Users\JonIC\.android\build-cache\5c94bad2ca79f79f8b8b409ffe9e69572701ff6a\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.6.1] C:\Users\JonIC\.android\build-cache\c11d9f2e2df891e0795218e9ef9b1f18595266f2\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.6.1] C:\Users\JonIC\.android\build-cache\55cf0437ffaa154da6a4a229c22b0a165b5cafb4\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.6.1] C:\Users\JonIC\.android\build-cache\ed5549e91e247282528a5d78a467da6072829ec6\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] C:\Users\JonIC\.android\build-cache\3f3536ae95dbfde5dbbfb4f9ab6173825e72517b\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:9.6.1] C:\Users\JonIC\.android\build-cache\b0b0204d12edc73a278c556de266a5ad86acdd20\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:9.6.1] C:\Users\JonIC\.android\build-cache\2de843416b3b8a3e63780682397397ec284758d3\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.6.1] C:\Users\JonIC\.android\build-cache\72eecb65b127c6f2188f58c0186ababda0dedd07\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.6.1] C:\Users\JonIC\.android\build-cache\d83fa4b311c274916154fc18eac6fabfdd67c817\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-places:9.6.1] C:\Users\JonIC\.android\build-cache\b125b5994d277a3f19cab65b525e668ae5a90600\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.6.1] C:\Users\JonIC\.android\build-cache\396281f2b602f3786d6799849906bfa10531d51b\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.6.1] C:\Users\JonIC\.android\build-cache\0bf15645bda04ce068201b309987a7855d2ccbac\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.6.1] C:\Users\JonIC\.android\build-cache\a6830260c3387e7ccdbfdaccaf4ef91c11c4f6d3\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.1] C:\Users\JonIC\.android\build-cache\1a5eb73524fa9e825822a9db58be896610cb3742\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] C:\Users\JonIC\.android\build-cache\f3563a0779fd6f1a56d507b9362f62459415e667\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.6.1] C:\Users\JonIC\.android\build-cache\7470ac87305c3a75e7414d8e67f7d6c65489c161\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.6.1] C:\Users\JonIC\.android\build-cache\a41c3746e5b84ac02664bb6a606f9679ffe955dd\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.6.1] C:\Users\JonIC\.android\build-cache\520b26ad0b93e54e1305ecf0134f4d627dbbeff6\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\JonIC\.android\build-cache\c2eecf34e93456f1c85a52333ab73035fb4fac3f\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.6.1] C:\Users\JonIC\.android\build-cache\00d235df745865be2e3f1f561f5b3d6d602b192d\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\JonIC\.android\build-cache\e2e8fead1b06836aed161518432e624571a4af97\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\JonIC\.android\build-cache\1a903b86f5135d882969409506cde50fa415b061\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-core:9.6.1] C:\Users\JonIC\.android\build-cache\6d3d0f7c70a2c5725055280f483e9f1a9bceb789\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\JonIC\.android\build-cache\fcc8a4060a45a244e667954fff34a780ffa6a13a\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\JonIC\.android\build-cache\d3e074088e155e461859ab0e64244896d643ced1\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\JonIC\.android\build-cache\d690f18d5ecf220da13258f5473fe9fcd70750b8\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\JonIC\.android\build-cache\280900cdbf589a1b75f4e836985958e751199b04\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\JonIC\.android\build-cache\6447febf8480b4f0c25472e183b19557c029ca87\output\AndroidManifest.xml:17:5-42
+MERGED from [com.github.siyamed:android-shape-imageview:0.9.3] C:\Users\JonIC\.android\build-cache\89a3ef38cae5f8fc9b12102527d5ca9213a24650\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:24.0.0] C:\Users\JonIC\.android\build-cache\b90aa11336abb9e38907acf7f823dc7723b809b4\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.0.0] C:\Users\JonIC\.android\build-cache\3dca7089e611bacf27da7c2db64355a50cc19245\output\AndroidManifest.xml:20:5-43
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\JonIC\.android\build-cache\89f6b7aba6f38714ef3b7e0560a407e5f13b070c\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.daimajia.androidanimations:library:1.0.3] C:\Users\JonIC\.android\build-cache\6dc9060481895cb9deccbbd08f59494fdc232ab5\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.4.7] C:\Users\JonIC\.android\build-cache\dfa280050cb488fa0e8d83f1e066d732a8eee263\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\JonIC\.android\build-cache\12ade4142887176505521c1022f0f2c3d60f0a95\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\JonIC\.android\build-cache\fd02c350a9ccd849a0321da7194c0ac324c612f0\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\JonIC\.android\build-cache\545fb4dc59409e39a695992c4a7b5257ba5d102f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\JonIC\.android\build-cache\ba9b3c59483e398fe0c3ed46d19e73908a3894da\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\JonIC\.android\build-cache\6d48c39c15bee385340789f27533b6f346562b64\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\JonIC\.android\build-cache\8084ef25776b5096b89c6226296493ac5b82ac04\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\JonIC\.android\build-cache\e977563fb28117c72260f203ebe67341800f2145\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\JonIC\.android\build-cache\c8fbea81793962565bc633cdc16f76bb1229d1cd\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\JonIC\.android\build-cache\1379730a544ee0a37af5825c81f8d186fa9e53a8\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:exifinterface:25.3.1] C:\Users\JonIC\.android\build-cache\54227377955465aaf3673b8fab522288adfa5ecc\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\JonIC\.android\build-cache\12ade4142887176505521c1022f0f2c3d60f0a95\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml
+		INJECTED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml
+		INJECTED from E:\WORK\workspace\Elroge-Information\3.Project\Business\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from [com.wdullaer:materialdatetimepicker:2.5.0] C:\Users\JonIC\.android\build-cache\7d0674baa69c553989683f1b8b3e2f3ea97907fa\output\AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from [com.wdullaer:materialdatetimepicker:2.5.0] C:\Users\JonIC\.android\build-cache\7d0674baa69c553989683f1b8b3e2f3ea97907fa\output\AndroidManifest.xml:26:22-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\JonIC\.android\build-cache\e3f52de1628d986206ec81cc39ad1e10465ad508\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.6.1] C:\Users\JonIC\.android\build-cache\d88f3a3de693eadef4f51e81123d880a49fbb3b7\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:9.6.1] C:\Users\JonIC\.android\build-cache\72eecb65b127c6f2188f58c0186ababda0dedd07\output\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.1] C:\Users\JonIC\.android\build-cache\1a5eb73524fa9e825822a9db58be896610cb3742\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] C:\Users\JonIC\.android\build-cache\f3563a0779fd6f1a56d507b9362f62459415e667\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\JonIC\.android\build-cache\c2eecf34e93456f1c85a52333ab73035fb4fac3f\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\JonIC\.android\build-cache\fcc8a4060a45a244e667954fff34a780ffa6a13a\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\JonIC\.android\build-cache\d3e074088e155e461859ab0e64244896d643ced1\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\JonIC\.android\build-cache\e3f52de1628d986206ec81cc39ad1e10465ad508\output\AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\JonIC\.android\build-cache\e3f52de1628d986206ec81cc39ad1e10465ad508\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\JonIC\.android\build-cache\e3f52de1628d986206ec81cc39ad1e10465ad508\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\JonIC\.android\build-cache\e3f52de1628d986206ec81cc39ad1e10465ad508\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\JonIC\.android\build-cache\e3f52de1628d986206ec81cc39ad1e10465ad508\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\JonIC\.android\build-cache\e3f52de1628d986206ec81cc39ad1e10465ad508\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\JonIC\.android\build-cache\e3f52de1628d986206ec81cc39ad1e10465ad508\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\JonIC\.android\build-cache\e3f52de1628d986206ec81cc39ad1e10465ad508\output\AndroidManifest.xml:26:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.6.1] C:\Users\JonIC\.android\build-cache\d88f3a3de693eadef4f51e81123d880a49fbb3b7\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.1] C:\Users\JonIC\.android\build-cache\1a5eb73524fa9e825822a9db58be896610cb3742\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\JonIC\.android\build-cache\fcc8a4060a45a244e667954fff34a780ffa6a13a\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\JonIC\.android\build-cache\d3e074088e155e461859ab0e64244896d643ced1\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.6.1] C:\Users\JonIC\.android\build-cache\d88f3a3de693eadef4f51e81123d880a49fbb3b7\output\AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.6.1] C:\Users\JonIC\.android\build-cache\821fe52527b8d87ec4e8c1a8648679bac28066ea\output\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.6.1] C:\Users\JonIC\.android\build-cache\821fe52527b8d87ec4e8c1a8648679bac28066ea\output\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.6.1] C:\Users\JonIC\.android\build-cache\821fe52527b8d87ec4e8c1a8648679bac28066ea\output\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.6.1] C:\Users\JonIC\.android\build-cache\821fe52527b8d87ec4e8c1a8648679bac28066ea\output\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.6.1] C:\Users\JonIC\.android\build-cache\821fe52527b8d87ec4e8c1a8648679bac28066ea\output\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.6.1] C:\Users\JonIC\.android\build-cache\821fe52527b8d87ec4e8c1a8648679bac28066ea\output\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.6.1] C:\Users\JonIC\.android\build-cache\821fe52527b8d87ec4e8c1a8648679bac28066ea\output\AndroidManifest.xml:22:25-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\JonIC\.android\build-cache\3c930904895613d2ad0c96758e66dd4132bac0c2\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\JonIC\.android\build-cache\3c930904895613d2ad0c96758e66dd4132bac0c2\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\JonIC\.android\build-cache\3c930904895613d2ad0c96758e66dd4132bac0c2\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\JonIC\.android\build-cache\3c930904895613d2ad0c96758e66dd4132bac0c2\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\JonIC\.android\build-cache\3c930904895613d2ad0c96758e66dd4132bac0c2\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\JonIC\.android\build-cache\3c930904895613d2ad0c96758e66dd4132bac0c2\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\JonIC\.android\build-cache\3c930904895613d2ad0c96758e66dd4132bac0c2\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\JonIC\.android\build-cache\3c930904895613d2ad0c96758e66dd4132bac0c2\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\JonIC\.android\build-cache\3c930904895613d2ad0c96758e66dd4132bac0c2\output\AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:9.6.1] C:\Users\JonIC\.android\build-cache\fc5c76e24833627bf00ef2190952d102998a8222\output\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.6.1] C:\Users\JonIC\.android\build-cache\fc5c76e24833627bf00ef2190952d102998a8222\output\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.6.1] C:\Users\JonIC\.android\build-cache\fc5c76e24833627bf00ef2190952d102998a8222\output\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.6.1] C:\Users\JonIC\.android\build-cache\fc5c76e24833627bf00ef2190952d102998a8222\output\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.6.1] C:\Users\JonIC\.android\build-cache\fc5c76e24833627bf00ef2190952d102998a8222\output\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.6.1] C:\Users\JonIC\.android\build-cache\fc5c76e24833627bf00ef2190952d102998a8222\output\AndroidManifest.xml:7:18-90
+service#com.google.firebase.crash.internal.service.FirebaseCrashReceiverService
+ADDED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\JonIC\.android\build-cache\305405c694c462d352987573274f3c7e2076f90c\output\AndroidManifest.xml:24:9-117
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\JonIC\.android\build-cache\305405c694c462d352987573274f3c7e2076f90c\output\AndroidManifest.xml:24:80-115
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\JonIC\.android\build-cache\305405c694c462d352987573274f3c7e2076f90c\output\AndroidManifest.xml:24:18-79
+service#com.google.firebase.crash.internal.service.FirebaseCrashSenderService
+ADDED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\JonIC\.android\build-cache\305405c694c462d352987573274f3c7e2076f90c\output\AndroidManifest.xml:26:9-115
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\JonIC\.android\build-cache\305405c694c462d352987573274f3c7e2076f90c\output\AndroidManifest.xml:26:78-113
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\JonIC\.android\build-cache\305405c694c462d352987573274f3c7e2076f90c\output\AndroidManifest.xml:26:18-77
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.6.1] C:\Users\JonIC\.android\build-cache\55cf0437ffaa154da6a4a229c22b0a165b5cafb4\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] C:\Users\JonIC\.android\build-cache\3f3536ae95dbfde5dbbfb4f9ab6173825e72517b\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.6.1] C:\Users\JonIC\.android\build-cache\55cf0437ffaa154da6a4a229c22b0a165b5cafb4\output\AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] C:\Users\JonIC\.android\build-cache\f3563a0779fd6f1a56d507b9362f62459415e667\output\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] C:\Users\JonIC\.android\build-cache\f3563a0779fd6f1a56d507b9362f62459415e667\output\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] C:\Users\JonIC\.android\build-cache\f3563a0779fd6f1a56d507b9362f62459415e667\output\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] C:\Users\JonIC\.android\build-cache\f3563a0779fd6f1a56d507b9362f62459415e667\output\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] C:\Users\JonIC\.android\build-cache\f3563a0779fd6f1a56d507b9362f62459415e667\output\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] C:\Users\JonIC\.android\build-cache\f3563a0779fd6f1a56d507b9362f62459415e667\output\AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] C:\Users\JonIC\.android\build-cache\f3563a0779fd6f1a56d507b9362f62459415e667\output\AndroidManifest.xml:25:19-93
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\JonIC\.android\build-cache\c2eecf34e93456f1c85a52333ab73035fb4fac3f\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\JonIC\.android\build-cache\c2eecf34e93456f1c85a52333ab73035fb4fac3f\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\JonIC\.android\build-cache\c2eecf34e93456f1c85a52333ab73035fb4fac3f\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\JonIC\.android\build-cache\e2e8fead1b06836aed161518432e624571a4af97\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\JonIC\.android\build-cache\e2e8fead1b06836aed161518432e624571a4af97\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\JonIC\.android\build-cache\e2e8fead1b06836aed161518432e624571a4af97\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\JonIC\.android\build-cache\e2e8fead1b06836aed161518432e624571a4af97\output\AndroidManifest.xml:19:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\JonIC\.android\build-cache\1a903b86f5135d882969409506cde50fa415b061\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\JonIC\.android\build-cache\1a903b86f5135d882969409506cde50fa415b061\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\JonIC\.android\build-cache\1a903b86f5135d882969409506cde50fa415b061\output\AndroidManifest.xml:23:18-87
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\JonIC\.android\build-cache\fcc8a4060a45a244e667954fff34a780ffa6a13a\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\JonIC\.android\build-cache\d3e074088e155e461859ab0e64244896d643ced1\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\JonIC\.android\build-cache\fcc8a4060a45a244e667954fff34a780ffa6a13a\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\JonIC\.android\build-cache\fcc8a4060a45a244e667954fff34a780ffa6a13a\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\JonIC\.android\build-cache\fcc8a4060a45a244e667954fff34a780ffa6a13a\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\JonIC\.android\build-cache\fcc8a4060a45a244e667954fff34a780ffa6a13a\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\JonIC\.android\build-cache\fcc8a4060a45a244e667954fff34a780ffa6a13a\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\JonIC\.android\build-cache\fcc8a4060a45a244e667954fff34a780ffa6a13a\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\JonIC\.android\build-cache\fcc8a4060a45a244e667954fff34a780ffa6a13a\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\JonIC\.android\build-cache\fcc8a4060a45a244e667954fff34a780ffa6a13a\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\JonIC\.android\build-cache\fcc8a4060a45a244e667954fff34a780ffa6a13a\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\JonIC\.android\build-cache\fcc8a4060a45a244e667954fff34a780ffa6a13a\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\JonIC\.android\build-cache\fcc8a4060a45a244e667954fff34a780ffa6a13a\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\JonIC\.android\build-cache\d3e074088e155e461859ab0e64244896d643ced1\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\JonIC\.android\build-cache\fcc8a4060a45a244e667954fff34a780ffa6a13a\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\JonIC\.android\build-cache\fcc8a4060a45a244e667954fff34a780ffa6a13a\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\JonIC\.android\build-cache\fcc8a4060a45a244e667954fff34a780ffa6a13a\output\AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\JonIC\.android\build-cache\ebc6c8cbef2ffe46c890b3ada2b3e9d287f65f46\output\AndroidManifest.xml:44:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\JonIC\.android\build-cache\d690f18d5ecf220da13258f5473fe9fcd70750b8\output\AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\JonIC\.android\build-cache\d690f18d5ecf220da13258f5473fe9fcd70750b8\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\JonIC\.android\build-cache\d690f18d5ecf220da13258f5473fe9fcd70750b8\output\AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\JonIC\.android\build-cache\d690f18d5ecf220da13258f5473fe9fcd70750b8\output\AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\JonIC\.android\build-cache\d690f18d5ecf220da13258f5473fe9fcd70750b8\output\AndroidManifest.xml:6:79-124
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\JonIC\.android\build-cache\12ade4142887176505521c1022f0f2c3d60f0a95\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\JonIC\.android\build-cache\fd02c350a9ccd849a0321da7194c0ac324c612f0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\JonIC\.android\build-cache\545fb4dc59409e39a695992c4a7b5257ba5d102f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\JonIC\.android\build-cache\ba9b3c59483e398fe0c3ed46d19e73908a3894da\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\JonIC\.android\build-cache\6d48c39c15bee385340789f27533b6f346562b64\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\JonIC\.android\build-cache\8084ef25776b5096b89c6226296493ac5b82ac04\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\JonIC\.android\build-cache\e977563fb28117c72260f203ebe67341800f2145\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\JonIC\.android\build-cache\c8fbea81793962565bc633cdc16f76bb1229d1cd\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\JonIC\.android\build-cache\1379730a544ee0a37af5825c81f8d186fa9e53a8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:exifinterface:25.3.1] C:\Users\JonIC\.android\build-cache\54227377955465aaf3673b8fab522288adfa5ecc\output\AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\JonIC\.android\build-cache\12ade4142887176505521c1022f0f2c3d60f0a95\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\JonIC\.android\build-cache\12ade4142887176505521c1022f0f2c3d60f0a95\output\AndroidManifest.xml:26:9-47

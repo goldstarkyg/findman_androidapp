@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:id="@+id/background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:id="@+id/lay_color"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:orientation="horizontal"
+        android:weightSum="10">
+
+        <TextView
+            android:id="@+id/btncolor1"
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="4dp"
+            android:layout_weight="2"
+            android:background="@drawable/clor_pink" />
+
+        <TextView
+            android:id="@+id/btncolor3"
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="4dp"
+            android:layout_weight="2"
+            android:background="@drawable/clor_blue" />
+
+        <TextView
+            android:id="@+id/btncolor2"
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="4dp"
+            android:layout_weight="2"
+            android:background="@drawable/color_white_btn" />
+
+        <TextView
+            android:id="@+id/btncolor4"
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="4dp"
+            android:layout_weight="2"
+            android:background="@drawable/clor_red" />
+
+        <TextView
+            android:id="@+id/btncolor5"
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="4dp"
+            android:layout_weight="2"
+            android:background="@drawable/clor_orange" />
+    </LinearLayout>
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/swipeRefreshLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="15dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="15dp"
+                    android:text="ANDTECH WIRELESS  REPAIR"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="20dp"
+                    android:textStyle="bold"
+                    android:textAllCaps="true"/>
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:weightSum="12"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <Button
+                        android:id="@+id/btnclear"
+                        android:text="Clear"
+                        android:layout_width="0dp"
+                        android:layout_weight="4"
+                        android:layout_height="wrap_content"
+                        android:theme="@style/PrimaryButton"
+                        />
+                    <Button
+                        android:visibility="invisible"
+                        android:id="@+id/btnMiddle"
+                        android:text="Clear"
+                        android:layout_width="0dp"
+                        android:layout_weight="4"
+                        android:layout_height="wrap_content"
+                        android:theme="@style/PrimaryButton"
+                        />
+                    <Button
+                        android:id="@+id/btngallery"
+                        android:text="Add Image"
+                        android:layout_width="0dp"
+                        android:layout_weight="4"
+                        android:layout_height="wrap_content"
+                        android:theme="@style/PrimaryButton"
+                        />
+                </LinearLayout>
+                <android.support.v7.widget.CardView
+                    android:id="@+id/cardImage"
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="10dp"
+                    app:cardElevation="5dp"
+                    card_view:cardBackgroundColor="#d7d7d7"
+                    card_view:cardCornerRadius="20dp"
+                    card_view:cardMaxElevation="6dp"
+                    >
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+                        <ImageView
+                            android:id="@+id/thumb"
+                            android:scaleType="fitXY"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:src="@drawable/no_image"
+                            android:layout_marginTop="2dp"
+                            android:layout_marginLeft="2dp"/>
+                        <LinearLayout
+                            android:orientation="vertical"
+                            android:id="@+id/lay_slider"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                        </LinearLayout>
+
+                    </RelativeLayout>
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="10dp"
+                    app:cardElevation="5dp"
+                    card_view:cardBackgroundColor="#d7d7d7"
+                    card_view:cardCornerRadius="20dp"
+                    card_view:cardMaxElevation="6dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="25dp"
+                        android:layout_marginRight="25dp"
+                        android:layout_marginTop="10dp"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Description"
+                            android:textAlignment="center"
+                            android:textColor="@color/black"
+                            android:textSize="20dp" />
+
+                        <EditText
+                            android:id="@+id/txt_full_description"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_margin="10dp"
+                            android:text=""
+                            android:textColor="@color/black" />
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="10dp"
+                    android:minHeight="50dp"
+                    app:cardElevation="5dp"
+                    card_view:cardBackgroundColor="#d7d7d7"
+                    card_view:cardCornerRadius="20dp"
+                    card_view:cardMaxElevation="6dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="25dp"
+                        android:layout_marginRight="25dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginBottom="10dp"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Offer End Date"
+                            android:textAlignment="center"
+                            android:textColor="@color/black"
+                            android:textSize="20dp" />
+
+                        <TextView
+                            android:id="@+id/date_picker"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text=""
+                            android:textAlignment="center"
+                            android:textColor="@color/black"
+                            android:textSize="20dp" />
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+                <LinearLayout
+                    android:id="@+id/layMain"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginBottom="30dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </LinearLayout>
+
+            </LinearLayout>
+        </ScrollView>
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+
+</LinearLayout>

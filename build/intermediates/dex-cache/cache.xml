@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\WORK\workspace\Elroge-Information\3.Project\Business\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26ed2e0884f651bc1a797db74d5a97bd58b18eaf">
+        <dex dex="E:\WORK\workspace\Elroge-Information\3.Project\Business\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5c4f101526dda68379b2674b712216a72c058578\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WORK\workspace\Elroge-Information\3.Project\Business\app\libs\commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="E:\WORK\workspace\Elroge-Information\3.Project\Business\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-io-2.4_692dc6d0ccbd110a484c56636c6ea95fe35c1ac3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WORK\workspace\Elroge-Information\3.Project\Business\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\WORK\workspace\Elroge-Information\3.Project\Business\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0e6a0ac18ef36f2a7c82c8fd397fe2e05b3b3820\classes.dex" />
+    </item>
+
+</items>

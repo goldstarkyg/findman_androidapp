@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#030303</color>
+    <color name="navy_blue">#e16d03</color>
+    <color name="yellow_fade">#f4f4ae27</color>
+    <color name="yellow_fade_shadow">#78f4ae27</color>
+    <color name="pink_fade">#7dc61577</color>
+    <color name="red">#e1131a</color>
+    <color name="brown">#e16b00</color>
+    <color name="transparent">#00000000</color>
+    <color name="part2_blue">#00c3ff</color>
+    <color name="part2_blue_shadow">#7600c3ff</color>
+    <color name="part3_pink">#ff00bc</color>
+    <color name="part3_pink_shadow">#7fff00bc</color>
+    <color name="select_color">#f1b5b1e6</color>
+    <color name="shadowColor">#fb000000</color>
+    <color name="orrange">#e33d1b</color>
+    <color name="lightgray">#d0cccc</color>
+    <color name="lightgray02">#484849</color>
+    <color name="theme_primary">#03a3e3</color>
+    <color name="txt_gray_normal">@color/app_gray</color>
+    <color name="txt_gray_over">@color/theme_primary</color>
+
+    <color name="txt_white_normal">#eeeeee</color>
+    <color name="txt_white_over">@color/app_gray</color>
+    <color name="app_yellow">#da9125</color>
+    <color name="app_blue">#3e7bd1</color>
+    <color name="app_gray">#6f6f6f</color>
+    <color name="app_green">#0d9019</color>
+    <color name="app_purple">#8935c9</color>
+    <color name="app_yellow_over">#9a671b</color>
+    <color name="app_blue_over">#2c5794</color>
+    <color name="app_gray_over">#3f3f3f</color>
+    <color name="app_green_over">#085d10</color>
+    <color name="app_purple_over">#652695</color>
+
+    <color name="app_dark_gray">#4c4c4c</color>
+
+    <color name="renderColor">#B3E5FC</color>
+    <color name="renderColor2">#FF35FC</color>
+    <color name="renderColor3">#3315FC</color>
+
+    <color name="lbbutton">#f07676</color>
+    <color name="lbmain">#a2def5</color>
+    <color name="lbbtntext">#279cca</color>
+    <color name="b_pink">#ff00ff</color>
+    <color name="b_white">#ffffff</color>
+    <color name="b_blue">#a2def5</color>
+    <color name="b_red">#ed1c24</color>
+    <color name="b_orange">#ff8a00</color>
+
+
+</resources>

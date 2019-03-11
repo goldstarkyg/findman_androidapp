@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_empty.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\menu\\menu_empty.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_group.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\menu\\menu_group.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_alert.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\menu\\menu_alert.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\menu\\crop_image_menu.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\dfa280050cb488fa0e8d83f1e066d732a8eee263\\output\\res\\menu\\crop_image_menu.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main_lower_version.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\menu\\menu_main_lower_version.xml"
+    }
+]

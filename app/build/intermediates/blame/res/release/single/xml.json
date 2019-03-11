@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\xml\\cache_paths.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\xml\\cache_paths.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\xml\\provider_paths.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\xml\\searchable.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\xml\\searchable.xml"
+    }
+]

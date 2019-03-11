@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/item_container"
+    android:layout_marginLeft="4dp"
+    android:layout_marginRight="4dp"
+    >
+
+    <!--<com.makeramen.roundedimageview.RoundedImageView-->
+        <!--android:id="@+id/imgfirst"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="250dp"-->
+        <!--android:cropToPadding="false"-->
+        <!--android:scaleType="fitXY"-->
+        <!--android:src="@drawable/business1"-->
+        <!--app:riv_border_color="#fbfbfb"-->
+        <!--app:riv_border_width="5dip"-->
+        <!--app:riv_corner_radius="10dip"-->
+        <!--app:riv_mutate_background="true"-->
+        <!--app:riv_oval="false" />-->
+
+    <com.github.siyamed.shapeimageview.RoundedImageView
+        android:id="@+id/imgfirst"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/business1"
+        android:cropToPadding="false"
+        android:scaleType="fitXY"
+        app:siRadius="6dp"
+        app:siBorderWidth="3dp"
+        app:siBorderColor="@color/white"
+        app:siSquare="false"/>
+
+</LinearLayout>

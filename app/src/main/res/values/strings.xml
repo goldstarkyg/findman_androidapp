@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Findmiin</string>
+
+    <string name="btn0">0</string>
+    <string name="btnSTAR">*</string>
+    <string name="btnPAWN">#</string>
+    <string name="btn8">8</string>
+    <string name="btn5">5</string>
+    <string name="btn2">2</string>
+    <string name="btn9">9</string>
+    <string name="btn6">6</string>
+    <string name="btn3">3</string>
+    <string name="btn7">7</string>
+    <string name="btn4">4</string>
+    <string name="btn1">1</string>
+    <string name="btnDOWN">DW</string>
+    <string name="btnOK">OK</string>
+    <string name="btnUP">UP</string>
+    <string name="btnRIGHT">RT</string>
+    <string name="btnLEFT">LT</string>
+    <string name="btnSeRIGHT">SELECT</string>
+    <string name="btnTLKRIGHT">TLK</string>
+    <string name="btnTLKLEFT">TLK</string>
+    <string name="btnSeLEFT">SELECT</string>
+    <string name="SeRIGHTopt">Clear</string>
+    <string name="SeLEFTopt">Menu</string>
+    <string name="Contacs">Contacs</string>
+
+    <string name="questionmark">\?!</string>
+    <string name="explenation">Sorry, but i could not find a camera on your device.</string>
+    <string name="nosdcard">There is no SD card</string>
+
+    <string name="lbl_username_email">Email</string>
+    <string name="lbl_username">User Name</string>
+    <string name="lbl_firstname">First Name</string>
+    <string name="lbl_lastname">Last Name</string>
+    <string name="lbl_email">Email Address</string>
+    <string name="lbl_password">Password</string>
+    <string name="lbl_confirm_password">Confirm Password</string>
+    <string name="lbl_birthday">Birthday</string>
+
+
+    <string name="btn_login_uppercase">LOGIN</string>
+    <string name="btn_forgot_password">Forgot Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="btn_signup_uppercase">SIGN UP</string>
+    <string name="btn_send_uppercase">SEND</string>
+
+    <string name="msg_err_request">Connection error.</string>
+    <string name="msg_err_failed">Failed.</string>
+    <string name="msg_empty_email">Enter email</string>
+    <string name="msg_empty_password">Enter password</string>
+    <string name="msg_empty_firstname">Enter first name</string>
+    <string name="msg_empty_lastname">Enter last name</string>
+    <string name="msg_empty_birth">Enter birthday</string>
+    <string name="msg_empty_gender">Select gender</string>
+    <string name="msg_err_confirm_password">Password is incorrrect.</string>
+    <string name="google_maps_key">AIzaSyAFOWlX6AHdRLXtCFEFb2D3pE-XRnQXJu0</string>
+    <string name="spinner_empty">Choose</string>
+    <string name="spinner_emty_location">Choose a City</string>
+    <string name="spinner_emty_category">Choose a Category</string>
+
+</resources>

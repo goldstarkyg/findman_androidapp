@@ -1,0 +1,458 @@
+[
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\b125b5994d277a3f19cab65b525e668ae5a90600\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\b90aa11336abb9e38907acf7f823dc7723b809b4\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\mdtp_year_label_text_view.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\7d0674baa69c553989683f1b8b3e2f3ea97907fa\\output\\res\\layout\\mdtp_year_label_text_view.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\detail_activity_layout.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\detail_activity_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\loc_info_item.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\loc_info_item.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\crop_image_view.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\dfa280050cb488fa0e8d83f1e066d732a8eee263\\output\\res\\layout\\crop_image_view.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\slider_layout.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\89f6b7aba6f38714ef3b7e0560a407e5f13b070c\\output\\res\\layout\\slider_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\render_type_default.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\89f6b7aba6f38714ef3b7e0560a407e5f13b070c\\output\\res\\layout\\render_type_default.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\b90aa11336abb9e38907acf7f823dc7723b809b4\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\b90aa11336abb9e38907acf7f823dc7723b809b4\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\b90aa11336abb9e38907acf7f823dc7723b809b4\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\b90aa11336abb9e38907acf7f823dc7723b809b4\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_splash.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\mdtp_date_picker_dialog.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\7d0674baa69c553989683f1b8b3e2f3ea97907fa\\output\\res\\layout\\mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\b90aa11336abb9e38907acf7f823dc7723b809b4\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\crop_image_activity.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\dfa280050cb488fa0e8d83f1e066d732a8eee263\\output\\res\\layout\\crop_image_activity.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\20d1527d8c499a89bbac8bed2a08a8e35ac0d40f\\output\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\20d1527d8c499a89bbac8bed2a08a8e35ac0d40f\\output\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\mdtp_done_button.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\7d0674baa69c553989683f1b8b3e2f3ea97907fa\\output\\res\\layout\\mdtp_done_button.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\b90aa11336abb9e38907acf7f823dc7723b809b4\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\mdtp_date_picker_selected_date.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\7d0674baa69c553989683f1b8b3e2f3ea97907fa\\output\\res\\layout\\mdtp_date_picker_selected_date.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\mdtp_date_picker_view_animator.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\7d0674baa69c553989683f1b8b3e2f3ea97907fa\\output\\res\\layout\\mdtp_date_picker_view_animator.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\register_layout.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\register_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\20d1527d8c499a89bbac8bed2a08a8e35ac0d40f\\output\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\mdtp_date_picker_header_view.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\7d0674baa69c553989683f1b8b3e2f3ea97907fa\\output\\res\\layout\\mdtp_date_picker_header_view.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\local_search_layout.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\local_search_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\spinner_item.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\comment_item.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\comment_item.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\local_info_item.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\local_info_item.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\reset_password_layout.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\reset_password_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\post_item.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\post_item.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\cate_item.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\cate_item.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\cate_search_layout.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\cate_search_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_push_message.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\dialog_push_message.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\mdtp_time_picker_dialog.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\7d0674baa69c553989683f1b8b3e2f3ea97907fa\\output\\res\\layout\\mdtp_time_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\b90aa11336abb9e38907acf7f823dc7723b809b4\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\signup_layout.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\signup_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\20d1527d8c499a89bbac8bed2a08a8e35ac0d40f\\output\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_confirm_layout.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\dialog_confirm_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\local_detail_activity_layout.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\local_detail_activity_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\profile_layout.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\profile_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\b90aa11336abb9e38907acf7f823dc7723b809b4\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\fc5c76e24833627bf00ef2190952d102998a8222\\output\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\detail_photo_item.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\detail_photo_item.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\comment_activity.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\comment_activity.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\loc_detail_activity_layout.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\loc_detail_activity_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\search_location_layout.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\search_location_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\mdtp_time_title_view.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\7d0674baa69c553989683f1b8b3e2f3ea97907fa\\output\\res\\layout\\mdtp_time_title_view.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\b90aa11336abb9e38907acf7f823dc7723b809b4\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\b125b5994d277a3f19cab65b525e668ae5a90600\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\post_layout.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\post_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\b90aa11336abb9e38907acf7f823dc7723b809b4\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\map_layout.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\map_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\b90aa11336abb9e38907acf7f823dc7723b809b4\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\login_layout.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\login_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\edit_layout.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\edit_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\20d1527d8c499a89bbac8bed2a08a8e35ac0d40f\\output\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\veryfy_layout.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\veryfy_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\render_type_text.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\89f6b7aba6f38714ef3b7e0560a407e5f13b070c\\output\\res\\layout\\render_type_text.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\b125b5994d277a3f19cab65b525e668ae5a90600\\output\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\20d1527d8c499a89bbac8bed2a08a8e35ac0d40f\\output\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\b125b5994d277a3f19cab65b525e668ae5a90600\\output\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\mdtp_time_header_label.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\7d0674baa69c553989683f1b8b3e2f3ea97907fa\\output\\res\\layout\\mdtp_time_header_label.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\business_info_item.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\business_info_item.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\cate_layout.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\cate_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\indicator_layout.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\89f6b7aba6f38714ef3b7e0560a407e5f13b070c\\output\\res\\layout\\indicator_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_loading.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\item_loading.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\JonIC\\.android\\build-cache\\12ade4142887176505521c1022f0f2c3d60f0a95\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\main_screen_photo_item.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\main_screen_photo_item.xml"
+    },
+    {
+        "merged": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\build\\intermediates\\res\\merged\\release\\layout\\forgot_layout.xml",
+        "source": "E:\\WORK\\workspace\\Elroge-Information\\3.Project\\Business\\app\\src\\main\\res\\layout\\forgot_layout.xml"
+    }
+]
